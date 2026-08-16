@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains a Python-based data analytics practice module focused on extracting financial insights using **NumPy**. It serves as a foundational component for a larger project aimed at downloading, merging, and analyzing BSE Sensex CSV files. 
 
-To practice purely numerical computations without relying on Pandas, this module uses a custom 30-day simulated dataset (`AgriExport_BSE_StockData.csv`) representing an agricultural export company to calculate real-world market metrics.
+ To practice purely numerical computations without relying on Pandas, this module uses a custom 30-day simulated dataset (`AgriExport_BSE_StockData.csv`) representing an agricultural export company to calculate real-world market metrics.
 
 ## 🚀 Key Features & Operations Learned
 This Jupyter Notebook demonstrates how to process raw financial data efficiently using NumPy's highly optimized array operations:
