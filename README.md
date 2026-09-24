@@ -1,4 +1,4 @@
- # BSE Stock Market Data Analysis (NumPy Core Practice)
+# BSE Stock Market Data Analysis (NumPy Core Practice)
 
 ## 📌 Overview
 This repository contains a Python-based data analytics practice module focused on extracting financial insights using **NumPy**. It serves as a foundational component for a larger project aimed at downloading, merging, and analyzing BSE Sensex CSV files. 
