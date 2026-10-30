@@ -24,6 +24,7 @@ This Jupyter Notebook demonstrates how to process raw financial data efficiently
 *   **Environment:** Jupyter Notebook
 
 ## 📂 Repository Structure
+
 *   `Stock_Analysis_NumPy.ipynb`: The main Jupyter Notebook containing the step-by-step code and theoretical explanations.
 *   `AgriExport_BSE_StockData.csv`: The simulated 30-day stock market dataset used for analysis (includes Open, High, Low, Close, and Volume).
 
